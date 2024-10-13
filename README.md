@@ -3,7 +3,7 @@
 This is a fully responsive e-commerce shopping website project built using React and Tailwind CSS. The website utilizes the Fake Store API to fetch data and display products. The Context API is used to manage state throughout the application.
 
 
-You can see a live demo of this project [here](https://ecommerce-shop-react-app.vercel.app/).
+You can see a live demo of this project [here](https://vercel.live/link/simple-ecommerce-omega.vercel.app?via=project-dashboard-alias-list&p=1).
 
 ## Features
 
