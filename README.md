@@ -1,8 +1,9 @@
-# Ecommerce-Website
+# E-commerce-Website
 
 ## Overview
 
-This is a simple e-commerce website built with React and Axios for fetching product data from an external API. The app displays a list of products with their details, such as the product image, title, price, and description.
+This is a simple e-commerce website built with React and Axios for fetching product data from an external API.
+The app displays a list of products with their details, such as the product image, title, price, and description.
 
 ### Features
 
